@@ -1,3 +1,5 @@
+![Screenshot (9)](https://github.com/benny-abhishek/Infotainment-System/assets/121245162/a1cd5286-0b6c-4df0-8ae7-6f843d329c8e)
+
 # Infotainment-System
 An In-vehicle infotainment system using C++
 
